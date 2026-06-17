@@ -1,0 +1,12 @@
+transformers
+torch
+datasets
+evaluate
+bert-score
+sentencepiece
+accelerate
+pandas
+numpy
+matplotlib
+scikit-learn
+tqdm
