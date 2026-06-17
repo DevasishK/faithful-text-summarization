@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Transformers](https://img.shields.io/badge/HuggingFace-Transformers-yellow)
+![Research](https://img.shields.io/badge/Research-Published-success)
+
 # Faithful Text Summarization
 
 ## Overview
